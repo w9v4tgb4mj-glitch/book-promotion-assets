@@ -1,7 +1,7 @@
 # book-promotion-assets
 Public cover images for automated book promotion posts
 
-The `instagram/library` tree contains thirty 1080 x 1080 promotional images for
+The `instagram/library` tree contains forty 1080 x 1080 promotional images for
 each book. The matching `portrait/library` tree contains 1080 x 1350 versions
 for portrait-oriented feeds. BookPromo rotates the shared image library across
 all publishing platforms per book.
